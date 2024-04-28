@@ -5,7 +5,7 @@
 47114 Group 8
 
 ## Team Members:
-1. Eryn Williams [@erynwilliams]()
+1. Eryn Williams [@erynwilliams](https://github.com/erynwilliams/MISTProject2/blob/main/README.md)
 3. Jenny Gentry [@jmg15190](https://github.com/jmg15190/MISTProject2)
 4. Ariana Gonzalez [@ag45846](https://github.com/ag45846/MISTProject2-Group8)
 5. Josh James [@joshanttt](https://github.com/joshanttt/MISTProject2)
